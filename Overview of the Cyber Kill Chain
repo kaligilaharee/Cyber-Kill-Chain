@@ -1,0 +1,10 @@
+The cyber kill chain is a framework developed by Lockheed Martin to understand and prevent cyberattacks. It breaks down the attack process into distinct phases, allowing organizations to identify and disrupt attacks at various stages.
+Stages of the Cyber Kill Chain
+Phase	Description
+1. Reconnaissance	The attacker gathers information about the target, identifying vulnerabilities and potential entry points.
+2. Weaponization	The attacker creates malware or exploits tailored to the identified vulnerabilities.
+3. Delivery	The attacker transmits the weapon to the target, often through phishing emails or compromised websites.
+4. Exploitation	The malware is activated, exploiting the target's vulnerabilities to gain access.
+5. Installation	The attacker installs malware to maintain access to the target system.
+6. Command and Control	The attacker establishes a command center to control the compromised systems remotely.
+7. Actions on Objectives	The attacker takes actions to achieve their goals, such as data theft, destruction, or ransom.
